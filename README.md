@@ -1,6 +1,7 @@
 # プラグイン置き場の [リポジトリ 一覧へ](https://github.com/nolimits-tukool?tab=repositories)  
-　　　 RPGツクール用プラグイン、サンプルプロジェクトを置いています  
-    　　　　2026/5/1時点で、全プラグインのバージョンアップを行ないました
+RPGツクール用プラグイン、サンプルプロジェクトを置いています  
+2026/5/2より公開開始  
+　　[シンプルなHDレイアウト・プラグイン](https://github.com/nolimits-tukool/NLM_SimpleHDLayoutMZ) ・ [MZ用コマンド行間設定プラグイン](https://github.com/nolimits-tukool/NLM_CommandHeightMZ)
 
 ---
 
