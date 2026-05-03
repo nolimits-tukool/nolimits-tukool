@@ -1,8 +1,8 @@
 # プラグイン置き場の [リポジトリ 一覧へ](https://github.com/nolimits-tukool?tab=repositories)  
 RPGツクール用プラグイン、サンプルプロジェクトを置いています  
-2026/5/2より公開開始  
-　　[シンプルなHDレイアウト・プラグイン](https://github.com/nolimits-tukool/NLM_SimpleHDLayoutMZ) ・ [MZ用コマンド行間設定プラグイン](https://github.com/nolimits-tukool/NLM_CommandHeightMZ)
-
+- [MZ用ボタン幅拡大プラグイン](https://github.com/nolimits-tukool/NLM_ButtonWidthMZ) (2026/5/3)
+- [シンプルなHDレイアウト・プラグイン](https://github.com/nolimits-tukool/NLM_SimpleHDLayoutMZ) (2026/5/2)
+- [MZ用コマンド行間設定プラグイン](https://github.com/nolimits-tukool/NLM_CommandHeightMZ) (2026/5/2)
 ---
 
 # [カードゲームMZサンプル３](https://github.com/nolimits-tukool/CardGameMZSample3)
@@ -19,13 +19,12 @@ PLiCy「カード使いのケイシー３」にて、ブラウザ版の [テス�
 ![デッキ画面](img/Deck.png)
 
 ## 「カードゲームMZサンプル３」（5つのプラグイン入り）を [download](https://github.com/nolimits-tukool/CardGameMZSample3/raw/refs/heads/main/CardMZSample3.zip)  
-　　RPGツクールMZ専用プロジェクトです  
-　　download解凍後は「readme.txt」に利用方法が書いてあります
+　RPGツクールMZ専用プロジェクトです  
+　download解凍後は「readme.txt」に利用方法が書いてあります
 
 ---
 
 ### 現在のバージョン： v3.1.0 (2026/05/01)
 
- ・　全プラグインのバージョンアップ（主にHDLayout.js対策）と [カード簡易入力プラグイン](https://github.com/nolimits-tukool/NLM_CardEasyInput) の新規追加  
- ・　座標入力コモンイベント追加（ゲーム内容には大きな変更はありません）
- 
+- 全プラグインのバージョンアップ（主にHDLayout.js対策）と [カード簡易入力プラグイン](https://github.com/nolimits-tukool/NLM_CardEasyInput) の新規追加
+- 座標入力コモンイベント追加（ゲーム内容には大きな変更はありません）
