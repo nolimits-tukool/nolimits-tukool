@@ -1,5 +1,6 @@
 # プラグイン置き場の [リポジトリ 一覧へ](https://github.com/nolimits-tukool?tab=repositories)  
 RPGツクール用プラグイン、サンプルプロジェクトを置いています  
+- [タイトル文字修飾プラグイン](https://github.com/nolimits-tukool/NLM_TitleFont) (2026/6/27)
 - [シンプルなHDレイアウト・プラグイン](https://github.com/nolimits-tukool/NLM_SimpleHDLayoutMZ) (2026/6/9更新)
 - [キャラクターサイズ 一括拡大プラグイン](https://github.com/nolimits-tukool/NLM_CharacterSizeMZ) (2026/5/14)
 - [MZ用ボタン幅拡大プラグイン](https://github.com/nolimits-tukool/NLM_ButtonWidthMZ) (2026/5/3)
