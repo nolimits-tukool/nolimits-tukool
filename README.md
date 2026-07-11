@@ -1,12 +1,15 @@
 # プラグイン置き場の [リポジトリ 一覧へ](https://github.com/nolimits-tukool?tab=repositories)  
 RPGツクール用プラグイン、サンプルプロジェクトを置いています  
+- [選択項目の背景色プラグイン](https://github.com/nolimits-tukool/NLM_BackSpriteColor) (2026/7/11)
 - [タイトル文字修飾プラグイン](https://github.com/nolimits-tukool/NLM_TitleFont) (2026/6/27)
 - [シンプルなHDレイアウト・プラグイン](https://github.com/nolimits-tukool/NLM_SimpleHDLayoutMZ) (2026/6/9更新)
 - [キャラクターサイズ 一括拡大プラグイン](https://github.com/nolimits-tukool/NLM_CharacterSizeMZ) (2026/5/14)
 - [MZ用ボタン幅拡大プラグイン](https://github.com/nolimits-tukool/NLM_ButtonWidthMZ) (2026/5/3)
 - [MZ用コマンド行間設定プラグイン](https://github.com/nolimits-tukool/NLM_CommandHeightMZ) (2026/5/2)
 ---
-
+## Windows11の[「スマートアプリコントロール」でブロックされる場合](https://github.com/nolimits-tukool/HandlingSmartAppControl)   
+##### 　downloadした jsファイル が開けないとき上記参照して下さい
+---
 # [カードゲームMZサンプル3R](https://github.com/nolimits-tukool/CardGameMZSample3R)
 ### RPGツクールMZ専用のサンプル・プロジェクト(2026/5/15)
 
@@ -26,9 +29,9 @@ PLiCy「カード使いのケイシー3R」にて、ブラウザ版の [テス�
 ![ガチャ画面](img/GachaR.png)
 
 ## 「カードゲームMZサンプル3R」(プラグイン計11個入り) を [download](https://github.com/nolimits-tukool/CardGameMZSample3R/raw/refs/heads/main/CardMZSample3R.zip)  
-　　RPGツクールMZ専用プロジェクトです  
-　　download解凍後は「readme.txt」に利用方法が書いてあります  
-　　本プロジェクトのデータを土台として改変し、自作ゲーム作品を完成させるのも問題ありません
+- RPGツクールMZ専用プロジェクトです
+- download解凍後は「readme.txt」に利用方法が書いてあります
+- 本プロジェクトのデータを土台として改変し、自作ゲーム作品を完成させるのも問題ありません  
 
 ---
 
