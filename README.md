@@ -1,5 +1,6 @@
 # プラグイン置き場の [リポジトリ 一覧へ](https://github.com/nolimits-tukool?tab=repositories)  
 RPGツクール用プラグイン、サンプルプロジェクトを置いています  
+- [アクター名色変更プラグイン](https://github.com/nolimits-tukool/NLM_ActorNameColor) (2026/11/13)
 - [メタリックテキスト・プラグイン](https://github.com/nolimits-tukool/NLM_MetallicText) (2026/11/7)
 - [ピクチャ部分シェイク・プラグイン](https://github.com/nolimits-tukool/NLM_PartiallyShakePicture) (2026/9/14更新)
 - [シンプルなHDレイアウト・プラグイン](https://github.com/nolimits-tukool/NLM_SimpleHDLayoutMZ) (2026/6/9更新)
